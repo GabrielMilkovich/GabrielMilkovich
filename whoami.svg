@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Who am I</title><desc id="desc">Gabriel builds reliable software for complex domains.</desc>
+  <defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".6" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+  <rect width="1200" height="350" rx="24" fill="url(#panel)" stroke="#30363d"/>
+  <text x="48" y="58" fill="#8b5cf6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2">01 — WHOAMI</text>
+  <rect x="48" y="78" width="1104" height="2" fill="url(#line)" opacity=".75"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">
+    <text x="54" y="132" fill="#22d3ee">gabriel@dev</text><text x="170" y="132" fill="#64748b">:</text><text x="182" y="132" fill="#a78bfa">~</text><text x="196" y="132" fill="#e2e8f0">$ cat mission.txt</text>
+  </g>
+  <text x="54" y="178" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="650">I translate complicated rules into software people can trust.</text>
+  <text x="54" y="215" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">From product discovery to production: architecture, interfaces, data, automation, testing and delivery.</text>
+  <g transform="translate(54 257)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g><rect width="316" height="56" rx="12" fill="#22d3ee" fill-opacity=".07" stroke="#22d3ee" stroke-opacity=".4"/><text x="18" y="24" fill="#67e8f9" font-size="12" font-weight="700" letter-spacing="1.5">DOMAIN-FIRST</text><text x="18" y="43" fill="#cbd5e1" font-size="13">Rules become explicit behavior</text></g>
+    <g transform="translate(338)"><rect width="316" height="56" rx="12" fill="#8b5cf6" fill-opacity=".08" stroke="#8b5cf6" stroke-opacity=".45"/><text x="18" y="24" fill="#c4b5fd" font-size="12" font-weight="700" letter-spacing="1.5">PRODUCTION-MINDED</text><text x="18" y="43" fill="#cbd5e1" font-size="13">Built to ship, observe and evolve</text></g>
+    <g transform="translate(676)"><rect width="316" height="56" rx="12" fill="#ec4899" fill-opacity=".07" stroke="#ec4899" stroke-opacity=".4"/><text x="18" y="24" fill="#f9a8d4" font-size="12" font-weight="700" letter-spacing="1.5">VERIFIABLE</text><text x="18" y="43" fill="#cbd5e1" font-size="13">Typed, tested and auditable</text></g>
+  </g>
+</svg>
+
