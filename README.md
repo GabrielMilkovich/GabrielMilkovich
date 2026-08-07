@@ -1,23 +1,38 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Gabriel Milkovich — Full-stack developer" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Gabriel Milkovich"/></picture>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/GabrielMilkovich)
-[![Profile views](https://komarev.com/ghpvc/?username=GabrielMilkovich&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/GabrielMilkovich)
+<a href="https://github.com/GabrielMilkovich"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
+<a href="https://github.com/GabrielMilkovich"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FULL--STACK-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/FULL--STACK-ffffff?style=flat-square&logoColor=000000" alt="Full-Stack"/></picture></a>
+<a href="https://github.com/GabrielMilkovich"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LEGAL_TECH-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/LEGAL_TECH-ffffff?style=flat-square&logoColor=000000" alt="Legal Tech"/></picture></a>
+<a href="https://github.com/GabrielMilkovich"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/APPLIED_AI-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/APPLIED_AI-ffffff?style=flat-square&logoColor=000000" alt="Applied AI"/></picture></a>
+<a href="https://github.com/GabrielMilkovich"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/UTC--03-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/UTC--03-ffffff?style=flat-square&logoColor=000000" alt="UTC-03"/></picture></a>
 
 </div>
 
-<img src="whoami.svg" width="100%" alt="About Gabriel" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Gabriel"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Gabriel's system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="15 selected systems"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
 
-<img src="system-map.svg" width="100%" alt="Areas of work" />
+<div align="center">
 
-<img src="telemetry.svg" width="100%" alt="Development telemetry" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and core technologies"/></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMilkovich&bg_color=00000000&color=e2e8f0&line=8b5cf6&point=22d3ee&area_color=7c3aed&area=true&hide_border=true&radius=8&custom_title=CONTRIBUTION%20TELEMETRY" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMilkovich&bg_color=00000000&color=111827&line=7c3aed&point=0891b2&area_color=8b5cf6&area=true&hide_border=true&radius=8&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="GitHub contribution activity" />
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMilkovich&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMilkovich&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
-<img src="stack.svg" width="100%" alt="Technical stack" />
+</div>
 
-<img src="footer.svg" width="100%" alt="Build systems that make complex work feel simple" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Engineering focus"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
+
+<!-- visual architecture inspired by Sharann-del/Sharann-del; identity and content adapted for Gabriel Milkovich -->
+<!-- one responsive picture per visual; no duplicate light/dark rendering -->
