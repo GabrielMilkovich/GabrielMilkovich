@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title">
+  <title id="title">Build systems that make complex work feel simple.</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#071018"/><stop offset=".5" stop-color="#17102d"/><stop offset="1" stop-color="#210d25"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+  <rect width="1200" height="160" rx="24" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="220" y="32" width="760" height="3" rx="2" fill="url(#line)"/>
+  <text x="600" y="86" text-anchor="middle" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Build systems that make complex work feel simple.</text>
+  <text x="600" y="119" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">clarity · reliability · continuous improvement</text>
+</svg>
