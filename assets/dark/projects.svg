@@ -1,0 +1,126 @@
+<svg viewBox="0 0 1000 1690" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fifteen selected systems by Gabriel Milkovich">
+  <style>
+    :root { --ink:#000000; --paper:#FFFFFF; }
+    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; } }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .rule { stroke:var(--ink); stroke-width:1; }
+    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
+    .copy { fill:var(--ink); font-size:12px; }
+    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}.r5{animation-delay:.25s}
+    .r6{animation-delay:.30s}.r7{animation-delay:.35s}.r8{animation-delay:.40s}.r9{animation-delay:.45s}.r10{animation-delay:.50s}
+    .r11{animation-delay:.55s}.r12{animation-delay:.60s}.r13{animation-delay:.65s}.r14{animation-delay:.70s}.r15{animation-delay:.75s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+  :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
+</style>
+
+  <g class="mono">
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title" x="48" y="24">01 / LEGAL CALCULATION ENGINE</text>
+      <text class="copy" x="48" y="49">Production platform that turns dense legal and financial rules into deterministic, auditable calculation workflows.</text>
+      <text class="copy" x="48" y="68">Handles calculations, monetary updates, reports, history and parity checks against trusted reference outputs.</text>
+      <text class="meta" x="48" y="87">REACT · TYPESCRIPT · SUPABASE · POSTGRESQL · DOMAIN MODELING · AUDITABILITY</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / DOCUMENT-ASSISTED WORKFLOWS</text>
+      <text class="copy" x="48" y="49">AI-assisted document workflows that transform unstructured files into reviewed, structured and usable records.</text>
+      <text class="copy" x="48" y="68">Combines extraction, validation and human review so automation stays useful without hiding uncertainty.</text>
+      <text class="meta" x="48" y="87">TYPESCRIPT · NODE.JS · APPLIED AI · DATA EXTRACTION · HUMAN-IN-THE-LOOP</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r3" transform="translate(0 240)">
+      <text class="title" x="48" y="24">03 / LEGAL ASSISTANT PLATFORM</text>
+      <text class="copy" x="48" y="49">Full-stack workspace for legal operations, connecting domain data, guided workflows and clear user decisions.</text>
+      <text class="copy" x="48" y="68">Designed around traceability, secure boundaries and interfaces that make complex processes easier to execute.</text>
+      <text class="meta" x="48" y="87">REACT · TYPESCRIPT · NODE.JS · POSTGRESQL · SUPABASE · UX</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r4" transform="translate(0 350)">
+      <text class="title" x="48" y="24">04 / BUSINESS OPERATIONS HUB</text>
+      <text class="copy" x="48" y="49">Operational workspace that centralizes tasks, records, status changes and recurring business routines.</text>
+      <text class="copy" x="48" y="68">Replaces fragmented manual steps with consistent flows, searchable history and clear ownership.</text>
+      <text class="meta" x="48" y="87">JAVASCRIPT · NODE.JS · TYPESCRIPT · WORKFLOW DESIGN · AUTOMATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r5" transform="translate(0 460)">
+      <text class="title" x="48" y="24">05 / ANALYTICS &amp; METRICS</text>
+      <text class="copy" x="48" y="49">Metrics layer for monitoring product behavior, operational volume and the signals that guide decisions.</text>
+      <text class="copy" x="48" y="68">Turns raw events into focused dashboards, comparable periods and actionable views for the business.</text>
+      <text class="meta" x="48" y="87">TYPESCRIPT · POSTGRESQL · SQL · DASHBOARDS · PRODUCT ANALYTICS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r6" transform="translate(0 570)">
+      <text class="title" x="48" y="24">06 / AUTOMATED REPORTING</text>
+      <text class="copy" x="48" y="49">Reporting pipeline that generates consistent outputs from structured calculations and operational data.</text>
+      <text class="copy" x="48" y="68">Prioritizes readable documents, repeatable generation and a complete trail back to source values.</text>
+      <text class="meta" x="48" y="87">NODE.JS · TYPESCRIPT · SQL · DOCUMENT GENERATION · TRACEABILITY</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r7" transform="translate(0 680)">
+      <text class="title" x="48" y="24">07 / WORKFLOW AUTOMATION</text>
+      <text class="copy" x="48" y="49">Automation services for repetitive multi-step work, with explicit states, retries and operator feedback.</text>
+      <text class="copy" x="48" y="68">Connects application events and external services without turning business rules into hidden magic.</text>
+      <text class="meta" x="48" y="87">NODE.JS · TYPESCRIPT · APIS · INTEGRATIONS · OBSERVABILITY</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r8" transform="translate(0 790)">
+      <text class="title" x="48" y="24">08 / CALCULATION PARITY SUITE</text>
+      <text class="copy" x="48" y="49">Test harness that compares engine results with trusted cases across edge conditions and historical scenarios.</text>
+      <text class="copy" x="48" y="68">Makes discrepancies reproducible, measurable and safer to resolve before production delivery.</text>
+      <text class="meta" x="48" y="87">TYPESCRIPT · VITEST · PLAYWRIGHT · FIXTURES · REGRESSION TESTING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r9" transform="translate(0 900)">
+      <text class="title" x="48" y="24">09 / SECURE DATA PLATFORM</text>
+      <text class="copy" x="48" y="49">Relational data foundation built for sensitive records, controlled access and durable business history.</text>
+      <text class="copy" x="48" y="68">Uses explicit schemas and permission boundaries so product speed does not trade away data integrity.</text>
+      <text class="meta" x="48" y="87">POSTGRESQL · SUPABASE · SQL · AUTHORIZATION · DATA MODELING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r10" transform="translate(0 1010)">
+      <text class="title" x="48" y="24">10 / API &amp; INTEGRATION LAYER</text>
+      <text class="copy" x="48" y="49">Service layer that gives clients predictable contracts for calculations, records and external integrations.</text>
+      <text class="copy" x="48" y="68">Keeps domain rules isolated from transport concerns while preserving validation and useful error context.</text>
+      <text class="meta" x="48" y="87">NODE.JS · TYPESCRIPT · REST · VALIDATION · INTEGRATIONS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r11" transform="translate(0 1120)">
+      <text class="title" x="48" y="24">11 / DESKTOP AUTOMATION</text>
+      <text class="copy" x="48" y="49">C# services and utilities for workflows that need strong Windows integration or desktop execution.</text>
+      <text class="copy" x="48" y="68">Bridges local operations with APIs and structured data while keeping failure states visible.</text>
+      <text class="meta" x="48" y="87">C# · .NET · WINDOWS · APIS · AUTOMATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r12" transform="translate(0 1230)">
+      <text class="title" x="48" y="24">12 / RUBY TOOLING</text>
+      <text class="copy" x="48" y="49">Ruby scripts and lightweight tools for clear, maintainable automation around recurring developer tasks.</text>
+      <text class="copy" x="48" y="68">Optimized for readable code, quick feedback and practical integration with existing workflows.</text>
+      <text class="meta" x="48" y="87">RUBY · SCRIPTING · AUTOMATION · DEVELOPER EXPERIENCE</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r13" transform="translate(0 1340)">
+      <text class="title" x="48" y="24">13 / QUALITY PIPELINE</text>
+      <text class="copy" x="48" y="49">Layered verification across domain logic, APIs and complete browser flows for confidence during change.</text>
+      <text class="copy" x="48" y="68">Balances fast unit feedback with realistic integration and end-to-end coverage for critical paths.</text>
+      <text class="meta" x="48" y="87">VITEST · PLAYWRIGHT · UNIT · INTEGRATION · E2E · CI</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r14" transform="translate(0 1450)">
+      <text class="title" x="48" y="24">14 / PRODUCTION DELIVERY</text>
+      <text class="copy" x="48" y="49">Repeatable delivery workflow covering local environments, containers, automated checks and web deployment.</text>
+      <text class="copy" x="48" y="68">Treats deployability, rollback awareness and operational clarity as part of product engineering.</text>
+      <text class="meta" x="48" y="87">DOCKER · CI/CD · VERCEL · ENVIRONMENTS · RELEASE DISCIPLINE</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r15" transform="translate(0 1560)">
+      <text class="title" x="48" y="24">15 / DOCUMENTATION SYSTEM</text>
+      <text class="copy" x="48" y="49">Living technical documentation for architecture, setup, testing, deployment and operational decisions.</text>
+      <text class="copy" x="48" y="68">Shortens onboarding and makes production knowledge easier to verify, update and reuse.</text>
+      <text class="meta" x="48" y="87">ARCHITECTURE · RUNBOOKS · TESTING · DEPLOYMENT · DECISION RECORDS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+  </g>
+</svg>
