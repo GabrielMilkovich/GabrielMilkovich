@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Milkovich — Full-stack developer</title>
+  <desc id="desc">Full-stack developer building reliable software for complex domains.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070a12"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#160b2d"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1040" cy="78" r="110" fill="#8b5cf6" opacity=".16" filter="url(#glow)"/>
+  <circle cx="1110" cy="260" r="90" fill="#22d3ee" opacity=".11" filter="url(#glow)"/>
+  <rect x="55" y="43" width="330" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#8b5cf6" stroke-opacity=".55"/>
+  <circle cx="77" cy="59" r="5" fill="#22d3ee"/><text x="93" y="64" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.5">GABRIELMILKOVICH / PROFILE</text>
+  <text x="55" y="146" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-2">Gabriel Milkovich</text>
+  <rect x="55" y="170" width="720" height="5" rx="3" fill="url(#accent)"/>
+  <text x="55" y="224" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Full-stack developer for complex, high-trust products.</text>
+  <text x="55" y="264" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Legal tech · Applied AI · Business automation</text>
+  <g transform="translate(55 300)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">
+    <text fill="#22d3ee">$</text><text x="18" fill="#cbd5e1">javascript</text><text x="113" fill="#475569">/</text><text x="132" fill="#cbd5e1">node.js</text><text x="203" fill="#475569">/</text><text x="222" fill="#cbd5e1">typescript</text><text x="317" fill="#475569">/</text><text x="336" fill="#cbd5e1">c#</text><text x="366" fill="#475569">/</text><text x="385" fill="#cbd5e1">ruby</text><rect x="435" y="-14" width="8" height="19" fill="#8b5cf6"/>
+  </g>
+</svg>
+
