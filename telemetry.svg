@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title">
+  <title id="title">Development telemetry</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0d1117"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#160b2d"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+  <rect width="1200" height="112" rx="22" fill="url(#bg)" stroke="#30363d"/>
+  <text x="48" y="47" fill="#8b5cf6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2">03 — TELEMETRY</text>
+  <text x="48" y="79" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Consistency over vanity metrics. The graph below reflects the work.</text>
+  <rect x="930" y="51" width="222" height="4" rx="2" fill="url(#accent)"/>
+</svg>
+
